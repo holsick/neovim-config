@@ -20,7 +20,6 @@ set background=dark
 " set background=light uncomment this to use light theme (probably not though)
 
 let g:gruvbox_contrast_dark = 'hard'
-" set colorscheme gruvbox for the contrast to apply
 
 " Disable jedi vim completions because deoplete is used
 let g:jedi#autocompletions_enabled = 0
