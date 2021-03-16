@@ -15,8 +15,9 @@ set expandtab
 set smartindent
 
 " Colorschemes
+colorscheme gruvbox " needed to cp the gruvbox.vim file from its install dir to /usr/share/nvim/runtime/colors
 set background=dark
-" set background=light
+" set background=light uncomment this to use light theme (probably not though)
 
 let g:gruvbox_contrast_dark = 'hard'
 " set colorscheme gruvbox for the contrast to apply
