@@ -30,6 +30,8 @@ let g:jedi#use_splits_not_buffers = "right"
 " Plugins
 call plug#begin('~/.local/share/nvim/plugged')
 
+" pip3 install jedi
+" pip3 install pynvim
 Plug 'davidhalter/jedi-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'zchee/deoplete-jedi'
